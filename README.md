@@ -36,18 +36,8 @@ Contributions to the project are encouraged and welcomed. Please feel free to su
 
 Feel free to customize and expand this description to provide more details about your specific project, its objectives, and any unique aspects of your implementation.
 
-
-
-
-User
-i need to add an addistnol discription that i need to add the data set link from th ekaggel website write that ciontent for me with in 30 words
-ChatGPT
-Sure, here's an additional description for your README.txt file that mentions adding the dataset link from Kaggle in 30 words or less:
-
 Dataset Source
 The dataset used in this project can be found on Kaggle. You can access it by following the provided link to the Kaggle dataset repository.
-
-
-
+https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 
